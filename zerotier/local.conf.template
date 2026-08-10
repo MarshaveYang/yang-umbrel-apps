@@ -1,7 +1,0 @@
-{
-  "settings": {
-    "allowManagementFrom": [
-      "${APP_ZEROTIER_WEB_IP}/32"
-    ]
-  }
-}

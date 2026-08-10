@@ -1,9 +1,0 @@
-version: "3.7"
-
-services:
-  server:
-    image: esphome/esphome:2026.7.4@sha256:4866347cb5b4f932a3ecf951ba49db662f565c634663efc9125f385d271e0565
-    network_mode: host
-    volumes:
-      - ${APP_DATA_DIR}/data:/config
-    restart: on-failure

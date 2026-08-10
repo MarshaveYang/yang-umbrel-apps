@@ -1,1 +1,0 @@
-export APP_ZEROTIER_WEB_IP="10.21.22.51"
