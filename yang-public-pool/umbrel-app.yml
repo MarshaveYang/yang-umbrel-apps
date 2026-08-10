@@ -1,7 +1,7 @@
 manifestVersion: 1
-id: public-pool
+id: yang-public-pool
 category: bitcoin
-name: Public Pool
+name: Yang Public Pool
 version: "95565ee-ui5f730f4"
 tagline: Fully Open Source Solo Bitcoin Mining Pool
 description: >-
