@@ -19,8 +19,8 @@ developer: Benjamin Wilson
 website: https://web.public-pool.io/#/
 dependencies:
   - bitcoin
-repo: https://github.com/benjamin-wilson/public-pool
-support: https://github.com/benjamin-wilson/public-pool/issues
+repo: https://github.com/MarshaveYang/public-pool
+support: https://github.com/MarshaveYang/public-pool/issues
 port: 2019
 gallery:
   - 1.jpg
