@@ -16,7 +16,7 @@ description: >-
   To start mining, just point your mining hardware to your Public Pool instance using the stratum details provided in the app.
   Monitor your total hashrate, track individual miners, and receive rewards directly to your chosen Bitcoin address. Mine independently and help strengthen Bitcoin's decentralization.
 developer: Benjamin Wilson
-website: https://web.public-pool.io/#/
+website: https://pp.dumm.top/#/
 dependencies:
   - bitcoin
 repo: https://github.com/MarshaveYang/public-pool
